@@ -1,4 +1,4 @@
 # Go-in-practice
 
-##Installation
+## Installation
 [Golang](https://golang.org/doc/install) 
