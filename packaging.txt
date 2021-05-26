@@ -1,0 +1,1 @@
+we cannot have variable and don't use it any where in the go.(unused variable are not allowed in golang)
