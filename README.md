@@ -13,10 +13,7 @@
     - Types
     - Aggregate Types
     - Pointers
-    - Slices
     - Functions
-    - Channels
-    - Interfaces
     - Maps
     - Compositions
     - Booleans
@@ -29,13 +26,41 @@
     - `do while` loop 
 - Strings
 - Arrays
+    - Array
+    - Slices
 - Structure
-- Concurrency
 - Error Handling
+    - Defer
+    - Error
+    - Panic
+    - Recover
+- GoRoutin
+- Channels
+- Interfaces
+- Buffer
+- Select
+- Mutex
+- Packages
+- Concurrency
 - Testing
 
 #### Intermediate
-- Machine Learning
-- Cloud Computing Using Go
+- Development
+    - HTTP/HTTPS
+    - Data Structures And Algorithm
+    - Scrum, Kanban ...
+    - Authentication, 0Auth, JWT
+- Frameworks and Routers
+    - Echo
+    - Gin
+    - Fiber
+    - Revel
+    - Beego
+    - Chi
+- Databases
+
+
 
 #### Advance
+- Machine Learning
+- Cloud Computing Using Go
