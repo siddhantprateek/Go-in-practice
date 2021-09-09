@@ -6,3 +6,36 @@
 [Golang](https://golang.org/doc/install) 
 
 
+### Learning Path
+
+#### Beginner
+- Types, Expression & Composition
+    - Types
+    - Aggregate Types
+    - Pointers
+    - Slices
+    - Functions
+    - Channels
+    - Interfaces
+    - Maps
+    - Compositions
+    - Booleans
+    - import and Export
+- Control Flow
+    - `for` loop
+    - `while` loop
+    - `switch` Statements
+    - `if`, `else`, `else if` statements
+    - `do while` loop 
+- Strings
+- Arrays
+- Structure
+- Concurrency
+- Error Handling
+- Testing
+
+#### Intermediate
+- Machine Learning
+- Cloud Computing Using Go
+
+#### Advance
